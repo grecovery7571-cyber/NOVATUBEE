@@ -1,0 +1,8 @@
+{
+  "name": "NOVATUBE",
+  "description": "YouTube client with a picture-in-picture floating player, resizable and draggable screen window, background play, and a sleep timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
